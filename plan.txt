@@ -1,0 +1,16 @@
+## url for the data set 
+
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+
+### 2014 JUly taxi data url file
+
+Yellow _taxi  = https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2014-07.parquet
+
+Green_taxi =  https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2014-07.parquet
+
+
+## Step One 
+
+Convertinf the csv file into diffrent sql tables 		
